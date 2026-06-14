@@ -1,0 +1,14 @@
+# Cache directories
+__pycache__/
+*.pyc
+cache/
+
+# PyInstaller / Build outputs
+build/
+dist/
+*.spec
+*.exe
+
+# Log files
+*.log
+rscrap_debug.log
